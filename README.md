@@ -1,6 +1,6 @@
 <div>
 <h2 align="center">Olá, me chamo Victoria Milan! Desenvolvedora Front-end e estudante de desenvolvimento Full Stack. 👋</h2>
-  <img src="https://media0.giphy.com/media/MT5UUV1d4CXE2A37Dg/giphy.gif?cid=790b76119f1ee04c2348b45783361e93eb06096102da72c8&rid=giphy.gif&ct=g" min-width="400px" max-   height="340px" align="right" alt="Computador iuriCode">
+  <img src="https://media0.giphy.com/media/MT5UUV1d4CXE2A37Dg/giphy.gif?cid=790b76119f1ee04c2348b45783361e93eb06096102da72c8&rid=giphy.gif&ct=g" min-width="400px" max-   width="350px" align="right" alt="Computador iuriCode">
 </div>
 
 <a href="https://github.com/VictoriaMilanS">
