@@ -1,16 +1,26 @@
-### Hi there 👋
+  <a href="https://github.com/VictoriaMilanS">
+  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=VictoriaMilanS&show_icons=true&include_all_commits=true&disable_animations=false&count_private=true&bg_color=141414&title_color=FF0096&text_color=FFFFFF&icon_color=FAFE28&border_color=464646"/>
+  <img height="194em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictoriaMilanS&layout=compact&langs_count=7&bg_color=141414&title_color=FF0096&text_color=fff&icon_color=FAFE2&border_color=464646"/>
+</div>
 
-<!--
-**victoriamilans/victoriamilans** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+<div align="center">
+<h3 align="center">Skills ✨</h3>
+  <img width="50px" alt="victoria-html" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  <img width="50px" alt="victoria-css" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+  <img width="50px" alt="victoria-js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img width="50px" alt="victoria-react" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  <img width="50px" alt="victoria-git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  <img width="50px" alt="victoria-vscode" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+  <img width="50px" alt="victoria-figma" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+<div align="center">
+  <a href = "mailto:victoria-milan@outlook.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/victoriapmilan" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
+</div>
+
+![Snake animation](https://github.com/victoriamilans/victoriamilans/blob/output/github-contribution-grid-snake.svg)
