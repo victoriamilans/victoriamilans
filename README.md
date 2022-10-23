@@ -1,4 +1,9 @@
-  <a href="https://github.com/VictoriaMilanS">
+<div>
+<h2 align="center">Olá, me chamo Victoria Milan! Desenvolvedora Front-end e estudante de desenvolvimento Full Stack. 👋</h2>
+  <img src="https://media0.giphy.com/media/MT5UUV1d4CXE2A37Dg/giphy.gif?cid=790b76119f1ee04c2348b45783361e93eb06096102da72c8&rid=giphy.gif&ct=g" min-width="400px" max-   width="300px" align="right" alt="Computador iuriCode">
+</div>
+
+<a href="https://github.com/VictoriaMilanS">
   <img height="190em" src="https://github-readme-stats.vercel.app/api?username=VictoriaMilanS&show_icons=true&include_all_commits=true&disable_animations=false&count_private=true&bg_color=141414&title_color=FF0096&text_color=FFFFFF&icon_color=FAFE28&border_color=464646"/>
   <img height="194em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictoriaMilanS&layout=compact&langs_count=7&bg_color=141414&title_color=FF0096&text_color=fff&icon_color=FAFE2&border_color=464646"/>
 </div>
