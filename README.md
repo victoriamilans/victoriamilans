@@ -3,8 +3,8 @@
 </div>
 
 <a href="https://github.com/VictoriaMilanS">
-  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=VictoriaMilanS&show_icons=true&include_all_commits=true&disable_animations=false&count_private=true&bg_color=141414&title_color=FF0096&text_color=FFFFFF&icon_color=FAFE28&border_color=464646"/>
-  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictoriaMilanS&layout=compact&langs_count=7&bg_color=141414&title_color=FF0096&text_color=fff&icon_color=FAFE2&border_color=464646"/>
+  <img width="190em" src="https://github-readme-stats.vercel.app/api?username=VictoriaMilanS&show_icons=true&include_all_commits=true&disable_animations=false&count_private=true&bg_color=141414&title_color=FF0096&text_color=FFFFFF&icon_color=FAFE28&border_color=464646"/>
+  <img width="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictoriaMilanS&layout=compact&langs_count=7&bg_color=141414&title_color=FF0096&text_color=fff&icon_color=FAFE2&border_color=464646"/>
 </div>
 
 ---
