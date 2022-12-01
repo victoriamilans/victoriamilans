@@ -1,13 +1,12 @@
 <div>
 <h2 align="center">Olá, me chamo Victoria Milan! Desenvolvedora Front-end e estudante de desenvolvimento Full Stack. 👋</h2>
 </div>
-
+  
   <div align="center">
   <a href="https://github.com/VictoriaMilanS">
-  <img height="180em"src="https://github-readme-stats.vercel.app/api?username=victoriamilans&show_icons=true&include_all_commits=true&disable_animations=false&count_private=true&bg_color=141414&title_color=FF0096&text_color=FFFFFF&icon_color=FAFE28&border_color=464646"/>
-  <img height="180em"src="https://github-readme-stats.vercel.app/api/top-langs/?username=victoriamilans&layout=compact&langs_count=7&bg_color=141414&title_color=FF0096&text_color=fff&icon_color=FAFE2&border_color=464646"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VictoriaMilanS&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&bg_color=141414&title_color=FF0096&text_color=FFFFFF&icon_color=FAFE28&border_color=464646"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictoriaMilanS&layout=compact&langs_count=7&bg_color=141414&title_color=FF0096&text_color=FFFFFF&icon_color=FAFE28&border_color=464646"/>
 </div>
-
 
 <div align="center">
 <h3 align="center">Skills ✨</h3>
