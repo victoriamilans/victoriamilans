@@ -1,5 +1,5 @@
 <div>
-<h2 align="center">Olá, me chamo Victoria Milan! Desenvolvedora Front-end e estudante de desenvolvimento Full Stack. 👋</h2>
+<h2 align="center">Olá, me chamo Victoria Milan! Desenvolvedora FullStack! 👋</h2>
 </div>
   
   <div align="center">
@@ -17,6 +17,7 @@
   <img width="50px" alt="git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
   <img width="50px" alt="express" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
   <img width="50px" alt="postgresql" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+  <img width="50px" alt="python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 </div>
 
 ---
