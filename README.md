@@ -21,11 +21,6 @@
   <img width="50px" alt="python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   <img width="50px" alt="django" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
 </div>
-
----
-<div align="center"> 
-  <a href = "https://pro-support.vercel.app/" target="_blank">ProSupport Technology</a>
- </div>
  
 ---
 
